@@ -113,12 +113,12 @@ This page focuses on customer-level analytics for deeper insights.
 ---
 
 ### 🗂 Files Included
-| File | Description |
-|------|--------------|
-| `` | Power BI dashboard file |
-| `Customer_CLV_Data.csv` | Dataset generated from SQL query |
-| `dashboard_screenshot.png` | Dashboard image for portfolio |
-| `README.md` | Project documentation |
+| File |
+|------|
+| Power BI dashboard file |
+| Dataset generated from SQL query |
+| Dashboard image for portfolio |
+| Project documentation |
 
 ---
 
