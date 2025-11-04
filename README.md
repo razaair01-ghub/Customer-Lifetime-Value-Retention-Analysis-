@@ -10,8 +10,7 @@ The main goal is to identify **high-value customers**, understand their **purcha
 
 I used **SQL** for data extraction, cleaning, and aggregation, and **Power BI** for building an interactive dashboard that segments customers into **Low**, **Medium**, and **High CLV groups**, while visualizing **retention rate trends** and **new vs returning customer behavior**.
 
-## 🧮 SQL Techniques and Functions Used
-🔹 SQL Techniques and Functions Used
+
 ## 🧮 SQL Summary
 
 I used **SQL Server** to perform complete data analysis for **Customer Lifetime Value (CLV)** and **Retention Rate** calculations.  
