@@ -57,7 +57,7 @@ The SQL query produced a **Customer Summary Table** with the following fields:
 
 The output from SQL was transformed into an interactive **Power BI Dashboard** titled  
 **"Customer Lifetime Value & Retention Analysis"**, designed to visualize customer profitability, loyalty, and engagement trends.
-
+![CLV Dashboard](CLV%20Dashboard%20SS.jpg)
 ---
 
 ### 🧩 Dashboard Structure
